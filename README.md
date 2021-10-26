@@ -7,3 +7,5 @@ Para jugar:
 Dejando el click izquierdo presionado, se empieza a cargar la lanza, entre mas tiempo se deje, mas fuerte sera el impulso.
 Si antes de golpear el muro dejas presionado el click derecho, y es un muro de tierra, el personaje se quedara enganchado.
 En el momento en el que sueltes el click derecho empezaras a caer.
+
+https://shadowdancer1556.itch.io/javeling
